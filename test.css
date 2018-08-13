@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calc{
+    margin: 30px;
+}
+
+input {
+    margin: 5px;
+    width: 3%;
+    height: 25px;
+    border: 1px solid black;
+}
+
+#price {
+    margin-left: 28px;
+}
+
+p {
+    margin-top: 10px;
+}
